@@ -12,6 +12,7 @@
 		621C287C207A4A9700CF3F06 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 621C287A207A4A9700CF3F06 /* Main.storyboard */; };
 		621C287E207A4A9700CF3F06 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 621C287D207A4A9700CF3F06 /* Assets.xcassets */; };
 		621C2881207A4A9700CF3F06 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 621C287F207A4A9700CF3F06 /* LaunchScreen.storyboard */; };
+		621C2889207A4B1100CF3F06 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 621C2888207A4B1000CF3F06 /* icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		621C287D207A4A9700CF3F06 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		621C2880207A4A9700CF3F06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		621C2882207A4A9700CF3F06 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		621C2888207A4B1000CF3F06 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				621C2876207A4A9700CF3F06 /* AppDelegate.swift */,
+				621C2888207A4B1000CF3F06 /* icon.png */,
 				621C2878207A4A9700CF3F06 /* ViewController.swift */,
 				621C287A207A4A9700CF3F06 /* Main.storyboard */,
 				621C287D207A4A9700CF3F06 /* Assets.xcassets */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				621C2889207A4B1100CF3F06 /* icon.png in Resources */,
 				621C2881207A4A9700CF3F06 /* LaunchScreen.storyboard in Resources */,
 				621C287E207A4A9700CF3F06 /* Assets.xcassets in Resources */,
 				621C287C207A4A9700CF3F06 /* Main.storyboard in Resources */,
